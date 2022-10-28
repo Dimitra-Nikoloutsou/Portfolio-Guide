@@ -15,4 +15,6 @@
 
 <h2> R Programming Language </h2>
 
+<a href="https://github.com/Dimitra-Nikoloutsou/Google_Data_Analytics_Bellabeat_Case_Study.git">Google Data Analytics Bellabeat Case Study</a>
+
 
