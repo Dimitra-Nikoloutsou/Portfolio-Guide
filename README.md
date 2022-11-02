@@ -9,14 +9,16 @@
 
 <h2> Excel, SQL & Tableau Projects </h2>
 
-<a href="https://github.com/Dimitra-Nikoloutsou/IMDB-Movies.git">IMDB Movies</a>
-
 <a href="https://github.com/Dimitra-Nikoloutsou/Google_Data_Analytics_Cyclistic_Case_Study_first-project.git">Google Data Analytics Cyclistic Case Study (first project)</a>
+
+<a href="https://github.com/Dimitra-Nikoloutsou/IMDB-Movies.git">IMDB Movies</a>
 
 <h2> R Programming Language </h2>
 
 <a href="https://github.com/Dimitra-Nikoloutsou/Google_Data_Analytics_Bellabeat_Case_Study.git">Google Data Analytics Bellabeat Case Study</a>
 
 <h2> Guided Projects </h2>
+
+<a href="https://github.com/Dimitra-Nikoloutsou/Covid-project.git">Covid Project</a>
 
 
