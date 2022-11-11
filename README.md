@@ -6,6 +6,9 @@
 <a href="https://github.com/Dimitra-Nikoloutsou/Violence-Against-Women-Girls.git">Violence Against Women & Girls</a>
 
 
+<h2> 8 Week SQL Challenge </h2>
+
+<a href="https://github.com/Dimitra-Nikoloutsou/Danny-s-Dinner.git">1st Case Study: Danny's Diner</a>
 
 <h2> Excel, SQL & Tableau Projects </h2>
 
